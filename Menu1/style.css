@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+.menu-bar {
+  background-color: #dc3545; /* Deep Blue Background Color */
+    overflow: hidden;
+}
+
+.menu-bar ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.menu-bar ul li {
+    float: left;
+    position: relative;
+}
+
+.menu-bar ul li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    transition: background-color 0.3s;
+}
+
+.menu-bar ul li a:hover {
+    background-color: #0056b3; /* Darker Blue on Hover */
+}
