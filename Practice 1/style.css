@@ -1,0 +1,20 @@
+h1{
+  text-align: center;
+  color: red;
+}
+
+p{
+  color: blaack;
+}
+button{ background-color: #4CAF50;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 10px;
+}
+body{
+  background-color: rgb(191, 50, 120);
+}

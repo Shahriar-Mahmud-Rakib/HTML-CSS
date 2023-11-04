@@ -1,0 +1,15 @@
+#box{
+  background-color: red;
+  font-family: arial;
+}
+
+h1, h2 {
+  color: blue;
+}
+
+button{
+  background-color: red;
+  color: white;
+  border-radius: 25px;
+  
+} 
